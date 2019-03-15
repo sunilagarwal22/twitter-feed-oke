@@ -8,7 +8,7 @@ During the workshop you will Dockerize this Java microservice using Wercker, con
 Build
 =====
 
-Build the application and the distribution zip file with the build.sh file.  It simply runs `mvn clean assembly:assembly`.  That will result in a zip file in the target folder that can be uploaded to Java SE CS.
+Build the application and the distribution zip file with the build.sh file.  It simply runs `mvn clean assembly:assembly`.  That will result in a zip file in the target folder that can be uploaded to Java SE CS. 
 
 
 Run Locally
